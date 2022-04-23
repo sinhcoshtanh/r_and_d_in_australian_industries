@@ -44,10 +44,10 @@ It should also be pointed out that there was an overall redistribution of the fu
   
  This can be accredited to the transition away from face-to-face/in person business operations to virtual and online business operations. This includes the (essentially) mandatory and fundamental dependency on the use of over the internet communications to keep in contact with families. It should be taken into investigation regarding the use of internet from each different age group over the pandemic. This transition also includes the use of online shopping for everyone's grocery shopping and personal goods, as a result from [news reports](https://auspost.com.au/content/dam/auspost_corp/media/documents/2020-australia-post-annual-report.pdf) CONTINUE
 
-![Top 10 Industry's Commitment to Research and Development Graph](https://github.com/sinhcoshtanh/R-and-D-in-Australian-Industries/blob/847e636bb76f891c495aa36678cf431847aae968/files/graphs-and-tables/top-10-industry-graph.png)
+![Top 10 Industry's Commitment to Research and Development Graph](https://github.com/sinhcoshtanh/r_and_d_in_australian_industries/blob/4604ffce2017510612342ce0ea47a7a76f6ca1d3/files/graphs_and_tables/top_10_industry_graph.png)
 Figure 1: Top 10 Industry's Commitment to Research and Development Graph
   
-![Top 10 Industry's Commitment to Research and Development Table](https://github.com/sinhcoshtanh/R-and-D-in-Australian-Industries/blob/847e636bb76f891c495aa36678cf431847aae968/files/graphs-and-tables/top-10-industry-table.png)
+![Top 10 Industry's Commitment to Research and Development Table](https://github.com/sinhcoshtanh/r_and_d_in_australian_industries/blob/4604ffce2017510612342ce0ea47a7a76f6ca1d3/files/graphs_and_tables/top_10_industry_table.png)
 Figure 2: Top 10 Industry's Commitment to Research and Development Table
   
 </p>
