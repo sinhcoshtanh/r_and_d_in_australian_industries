@@ -1,1 +1,0 @@
-# r_and_d_in_australian_industries
