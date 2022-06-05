@@ -46,12 +46,6 @@ It should also be pointed out that there was an overall redistribution of the fu
 
 ![Top 10 Industry's Commitment to Research and Development Graph](https://github.com/sinhcoshtanh/r_and_d_in_australian_industries/blob/4604ffce2017510612342ce0ea47a7a76f6ca1d3/files/graphs_and_tables/top_10_industry_graph.png)
 Figure 1: Top 10 Industry's Commitment to Research and Development Graph
-  
-</p>
-</details>
-
-<details><summary>Top States and Terrortories with the largest commitment to R&D</summary>
-<p>
 
 </p>
 </details>
